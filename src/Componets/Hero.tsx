@@ -16,7 +16,7 @@ const Hero = () => {
           </div>
           <div className="md:w-1/2 mt-8 md:mt-0">
             <img 
-              src="/hero-image.jpg" 
+              src="/Imagem neutra.jpg" 
               alt="Cooperados Cogecom" 
               className="rounded-lg shadow-xl"
             />

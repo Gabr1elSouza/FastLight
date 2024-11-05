@@ -9,7 +9,8 @@ const Header = () => {
       <div className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <img src="/logo-cogecom.png" alt="Fast Light" className="h-12" />
+            <a href="www.sevenpower.com.br"><h1 className='text-xl'>FAST<span className='font-bold'>LIGHT</span></h1></a>
+            {/* <img src="/logo-cogecom.png" alt="Fast Light" className="h-12" /> */}
           </div>
 
           {/* Desktop Menu */}
