@@ -11,7 +11,7 @@ const Header = () => {
           <div className="flex items-center">
             <a href="https://www.sevenpower.com.br">
               <h1 className="text-xl flex items-center">
-                <img src="/public/LOGO2.png" alt="logo" className="h-20" />
+                <img src="/LOGO2.png" alt="logo" className="h-20" />
                 FAST<span className="font-bold">LIGHT</span>
               </h1>
             </a>
