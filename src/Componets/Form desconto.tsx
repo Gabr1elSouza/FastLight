@@ -2,7 +2,7 @@ import React from 'react';
 
 const FormularioDesconto: React.FC = () => {
   return (
-    <section className="bg-white p-8 rounded-lg shadow-lg max-w-md mx-auto mt-8">
+    <section className="bg-amber-100 p-8 rounded-lg shadow-lg max-w-md mx-auto mt-8">
       <h3 className="text-xl font-semibold mb-4">Calcule seu desconto</h3>
       <form className="space-y-4">
         <div className="flex gap-4">

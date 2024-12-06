@@ -1,10 +1,10 @@
 const Footer = () => {
   return (
-    <footer className="bg-gray-900 text-white py-12">
+    <footer className="bg-emerald-300 text-white py-12">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <img src="/logo-white.png" alt="Cogecom Logo" className="h-12 mb-4" />
+            <img src="/LOGO2.png" alt="Cogecom Logo" className="h-20 mb-4" />
             <p className="text-gray-400">
               Cooperativa de profissionais e empresas do setor de tecnologia.
             </p>
